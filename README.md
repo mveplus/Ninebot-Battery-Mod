@@ -12,14 +12,14 @@ Desiring to repair the scooter, I pondered the idea of utilizing the "external b
 
 The internal and external battery connectors share a common (-) negative power wire and control wires, leaving three distinct wires: the positive (+) power wire, and the RX and TX communication wires.  
 
-Identified key components and bypass solution:
+## Identified key components and bypass solution:
 ![Bypass links](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/01_External_battery_mod_bypass_connections_bottom_IMG_9827.jpeg)
 ![External battery RX&TX resistors](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/02_External_Battery_RX_TX_Resistors_IMG_9831.jpeg)
 ![Exteranl battery sense resistor](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/03_External_battery_sense_resistor_IMG_9840.jpeg)
 
 To make the external battery the primary one, I needed to reroute its communication and power wires to the internal battery, while deactivating the external battery presence detection. With the assistance of detailed [MCU pin-out references](https://github.com/etransport/ninebot-docs/wiki/ES2ESC#mcu-io-ports) and some trial and error, I successfully reconfigured the scooter to operate solely on the external battery.
 
-## Mod comleted:
+## Mod completed:
 ![Bypass wires](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/01_1_External_battery_mod_bypass_wires_bottom_IMG_0708.jpeg)
 ![External battery RX&TX resistors removed](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/02_1_External_Battery_RX_TX_Resistors_removed_IMG_0714.jpeg)
 ![Exteranl battery sense resistor removed](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/03_1_External_battery_sense_resistor_removed_IMG_0711.jpeg)
