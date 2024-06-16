@@ -25,4 +25,4 @@ After a successful test run in my neighborhood, I encountered error code 21 upon
 ## Disclaimer: 
 I absolve myself of any liability or responsibility if someone lacks the necessary caution and ends up getting hurt while using the information provided.
 
-### If you find this information helpful, feel free to express your gratitude in a more practical manner by buying me [a beer or a coffee](https://buymeacoffee.com/mveplus). Cheers to safety and fun!"
+#### If you find this information helpful, feel free to express your gratitude in a more practical manner by buying me [a coffee](https://buymeacoffee.com/mveplus). Cheers to safety and fun!
