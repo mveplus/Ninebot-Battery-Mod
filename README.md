@@ -1,5 +1,6 @@
 # Ninebot-Battery-Mod
-Ninebot ES2 External Battery mod as a Main Battery
+
+## Refurbishing the Ninebot ES2: Transforming the External Battery Mod into the Primary Power Source
 
 I was gifted an ES2 scooter by a friend, which was not working and on the verge of being discarded. The scooter's history was unknown, but upon inspection, all major components seemed fine. However, it was not charging and was displaying [error codes 19 and 21](https://github.com/etransport/ninebot-docs/wiki/ES2ESC).
 
@@ -21,4 +22,6 @@ To make the external battery the primary one, I needed to reroute its communicat
 
 After a successful test run in my neighborhood, I encountered error code 21 upon returning home. Suspecting a poor connection with the external battery, I modified the internal connector slightly to address the issue. Ultimately, it was discovered that the female connector of the external battery had also been damaged due to impact. After reengineering the connections, the scooter was back to normal operation.
 
-"Disclaimer: I absolve myself of any liability or responsibility if someone lacks the necessary caution and ends up getting hurt while using the information provided. However, if you find this information helpful, feel free to express your gratitude in a more practical manner by buying me [a beer or a coffee](https://buymeacoffee.com/mveplus). Cheers to safety and fun!"
+## Disclaimer: I absolve myself of any liability or responsibility if someone lacks the necessary caution and ends up getting hurt while using the information provided.
+
+# If you find this information helpful, feel free to express your gratitude in a more practical manner by buying me [a beer or a coffee](https://buymeacoffee.com/mveplus). Cheers to safety and fun!"
