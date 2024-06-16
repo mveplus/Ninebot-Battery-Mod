@@ -27,6 +27,6 @@ To make the external battery the primary one, I needed to reroute its communicat
 After a successful test run in my neighborhood, I encountered error code 21 upon returning home. Suspecting a poor connection with the external battery, I modified the internal connector slightly to address the issue. Ultimately, it was discovered that the female connector of the external battery had also been damaged due to impact. After reengineering the connections, the scooter was back to normal operation.
 
 ## Disclaimer: 
-I absolve myself of any liability or responsibility if someone lacks the necessary caution and ends up getting hurt while using the information provided.
+While I cannot be held liable for any mishaps that may occur due to lack of caution, it is crucial to adhere to [safety guidelines](https://ehs.mit.edu/wp-content/uploads/2019/09/Lithium_Battery_Safety_Guidance.pdf) when working with lithium-ion batteries, power tools, and electric circuitry.
 
 #### If you find this information helpful, feel free to express your gratitude in a more practical manner by buying me [a coffee](https://buymeacoffee.com/mveplus). Cheers to safety and fun!
