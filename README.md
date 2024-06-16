@@ -1,6 +1,6 @@
 # Ninebot-Battery-Mod
 
-## Refurbishing the Ninebot ES2: Transforming the External Battery Mod into the Primary Power Source
+## New life for ES2: Transforming the External Battery Mod into the Primary Power Source
 
 I was gifted an ES2 scooter by a friend, which was not working and on the verge of being discarded. The scooter's history was unknown, but upon inspection, all major components seemed fine. However, it was not charging and was displaying [error codes 19 and 21](https://github.com/etransport/ninebot-docs/wiki/ES2ESC).
 
