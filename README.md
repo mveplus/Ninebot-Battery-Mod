@@ -9,9 +9,9 @@ Desiring to repair the scooter, I pondered the idea of utilizing the "external b
 
 To make the external battery the primary one, I needed to reroute its communication and power wires to the internal battery, while deactivating the external battery presence detection. With the assistance of detailed MCU pin-out references and some trial and error, I successfully reconfigured the scooter to operate solely on the external battery.
 
-![Bypass links](https://github/mveplus/Ninebot-Battery-Mod/blob/main/01_External_battery_mod_bypass_connections_bottom_IMG_9827.jpeg)
-![External battery RX&TX resistors](https://github/mveplus/Ninebot-Battery-Mod/blob/main/02_External_Battery_RX_TX_Resistors_IMG_9831.jpeg)
-![Exteranl battery sense resistor](https://github/mveplus/Ninebot-Battery-Mod/blob/main/03_External_battery_sense_resistor_IMG_9840.jpeg)
+![Bypass links](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/01_External_battery_mod_bypass_connections_bottom_IMG_9827.jpeg)
+![External battery RX&TX resistors](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/02_External_Battery_RX_TX_Resistors_IMG_9831.jpeg)
+![Exteranl battery sense resistor](https://github.com/mveplus/Ninebot-Battery-Mod/blob/main/images/03_External_battery_sense_resistor_IMG_9840.jpeg)
 
 After a successful test run in my neighborhood, I encountered error code 21 upon returning home. Suspecting a poor connection with the external battery, I modified the internal connector slightly to address the issue. Ultimately, it was discovered that the female connector of the external battery had also been damaged due to impact. After reengineering the connections, the scooter was back to normal operation.
 
